@@ -1,0 +1,1 @@
+C:\Users\Cameron\source\repos\BookingSystem\bookingsystem.client\obj\Debug\bookingsystem.client.esproj.CoreCompileInputs.cache

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "CvZzG3VJioN83AYFBTYS7IbUCmYiC/Yw6+1fwbT75xA=",
+  "Source": "BookingSystem.Server",
+  "BasePath": "_content/BookingSystem.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Cameron\\source\\repos\\BookingSystem\\bookingsystem.client\\bookingsystem.client.esproj",
+      "Version": 2,
+      "Source": "bookingsystem.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
