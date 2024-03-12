@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cameron\\source\\repos\\BookingSystem\\BookingSystem.Server\\BookingSystem.Server.csproj": {}
+    "C:\\Users\\Cameron\\Source\\Repos\\BookingSystem_ReadMe\\BookingSystem.Server\\BookingSystem.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cameron\\source\\repos\\BookingSystem\\BookingSystem.Server\\BookingSystem.Server.csproj": {
+    "C:\\Users\\Cameron\\Source\\Repos\\BookingSystem_ReadMe\\BookingSystem.Server\\BookingSystem.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cameron\\source\\repos\\BookingSystem\\BookingSystem.Server\\BookingSystem.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Cameron\\Source\\Repos\\BookingSystem_ReadMe\\BookingSystem.Server\\BookingSystem.Server.csproj",
         "projectName": "BookingSystem.Server",
-        "projectPath": "C:\\Users\\Cameron\\source\\repos\\BookingSystem\\BookingSystem.Server\\BookingSystem.Server.csproj",
+        "projectPath": "C:\\Users\\Cameron\\Source\\Repos\\BookingSystem_ReadMe\\BookingSystem.Server\\BookingSystem.Server.csproj",
         "packagesPath": "C:\\Users\\Cameron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cameron\\source\\repos\\BookingSystem\\BookingSystem.Server\\obj\\",
+        "outputPath": "C:\\Users\\Cameron\\Source\\Repos\\BookingSystem_ReadMe\\BookingSystem.Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cameron\\AppData\\Roaming\\NuGet\\NuGet.Config",

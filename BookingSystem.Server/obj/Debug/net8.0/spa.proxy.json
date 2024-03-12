@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:5173",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\Cameron\\source\\repos\\BookingSystem\\BookingSystem.Server\\..\\bookingsystem.client",
+"WorkingDirectory": "C:\\Users\\Cameron\\Source\\Repos\\BookingSystem_ReadMe\\BookingSystem.Server\\..\\bookingsystem.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }
